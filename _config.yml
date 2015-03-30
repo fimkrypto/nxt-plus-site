@@ -1,14 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: NXT-PLUS
+email: incentivetoken@gmail.com
+github_repo: https://github.com/fimkrypto/nxt-plus
+description: >
+  NXT-PLUS showcases the strength of the NXT platform and it's community.<br>
+  NXT by design was intented to be extended by third-party developers.<br>
+  NXT-PLUS is fully compatible with NXT while adding new and powerfull extensions to the protocol.
+baseurl: "/nxt-plus-site"
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  fimkrypto
 
 # Build settings
 markdown: kramdown
+
+nxt_version: 1.4.16
