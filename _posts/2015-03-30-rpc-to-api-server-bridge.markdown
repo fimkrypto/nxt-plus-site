@@ -9,7 +9,7 @@ The API server does not need to be started in order to call it's methods, calls 
 
 Until we have detailed documentation the source code is your friend.
 
-<a href="https://github.com/fimkrypto/nxt-plus/blob/master/src/java/nxt/http/rpc/CallAPIFunction.java">src/java/nxt/http/rpc/CallAPIFunction.java</a>
+<a target="_blank" href="https://github.com/fimkrypto/nxt-plus/blob/master/src/java/nxt/http/rpc/CallAPIFunction.java">src/java/nxt/http/rpc/CallAPIFunction.java</a>
 
 See the sample below how to call the getBlocks API method over the RPC bridge from javascript. Click the Result tab to run the sample.
 

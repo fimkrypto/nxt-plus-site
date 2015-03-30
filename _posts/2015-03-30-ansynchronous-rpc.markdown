@@ -7,6 +7,6 @@ Where the existing NXT API is synchronous the NXT-PLUS RPC interface is asynchro
 
 Since RPC calls happen over already establised WebSocket connections they are much faster than using the existing NXT API server.
 
-For an overview of available RPC calls see <a href="https://github.com/fimkrypto/nxt-plus/tree/master/src/java/nxt/http/rpc">https://github.com/fimkrypto/nxt-plus/tree/master/src/java/nxt/http/rpc</a> a formal description is highly desired but unfortunately not ready.
+For an overview of available RPC calls see <a target="_blank" href="https://github.com/fimkrypto/nxt-plus/tree/master/src/java/nxt/http/rpc">https://github.com/fimkrypto/nxt-plus/tree/master/src/java/nxt/http/rpc</a> a formal description is highly desired but unfortunately not ready.
 
-See our blog post for background information <a href="http://fimkchat.com/2015/03/connecting-to-fimk-websockets/">http://fimkchat.com/2015/03/connecting-to-fimk-websockets/</a>. The samples in the blog are for FIMK but apply equally to NXT-PLUS.
+See our blog post for background information <a target="_blank" href="http://fimkchat.com/2015/03/connecting-to-fimk-websockets/">http://fimkchat.com/2015/03/connecting-to-fimk-websockets/</a>. The samples in the blog are for FIMK but apply equally to NXT-PLUS.
