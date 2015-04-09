@@ -3,7 +3,7 @@ layout: post
 title:  "FIMKSocket.js wrapper"
 date:   2015-03-30 16:00:00
 ---
-To make working with the WebSocket server easier we advise to use a wrapper that wraps the low-level raw websocket specifics and exposes a clean set of access points. The FIMKSocket.js reference wrapper is written in Javascript but the same principles will apply to all other languages. <a target="_blank" href="http://forum.fimk.fi/index.php?action=profile;u=8" target="_blank">Contact me</a> if you need help creating a wrapper for your language, we'll be happy to co-create and host the source code for that wrapper.
+To make working with the WebSocket server easier we advise to use a wrapper that wraps the low-level raw websocket specifics and exposes a clean set of access points. The FIMKSocket.js reference wrapper is written in Javascript but the same principles will apply to all other languages.Contact us if you need help creating a wrapper for your language, we'll be happy to co-create and host the source code for that wrapper.
 
 <a target="_blank" href="https://gist.github.com/fimkrypto/916fc1da11dd2877ab18" target="_blank">FIMKSocket.js library</a>.
 
